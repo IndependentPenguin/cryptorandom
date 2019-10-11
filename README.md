@@ -16,3 +16,5 @@ encryption to produce close to true randomness.
 
 Install:
 pip install cryptorandom
+
+https://github.com/IndependentPenguin/cryptorandom
