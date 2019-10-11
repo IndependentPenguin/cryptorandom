@@ -1,0 +1,2 @@
+# cryptorandom
+Alternative random library.
