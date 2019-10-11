@@ -15,6 +15,6 @@ Simply change 'import random' to 'import cryptorandom as random' and your code w
 encryption to produce close to true randomness.
 
 Install:
-pip install cryptorandom
+pip install -i https://test.pypi.org/simple/ cryptorandom
 
 https://github.com/IndependentPenguin/cryptorandom
